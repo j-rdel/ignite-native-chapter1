@@ -2,7 +2,7 @@
 
 ## About 📰
 
-This is a project developed in the React Native course provided by <a href="rocketseat.com.br">RocketSeat<a> 🚀
+This is a project developed in the React Native course provided by <a href="https://www.rocketseat.com.br">RocketSeat<a> 🚀
 
 In this chapter we are developing a mobile application to add and list my skills, in the first module of the course we learned the fundamentals of React Native.
 
@@ -13,10 +13,6 @@ In this chapter we are developing a mobile application to add and list my skills
 - React Native
 - Typescript
 
-```bash
-# Development tools :wrench:
-```
-- Android Studio
 ------
 
 ## How to use 💡
