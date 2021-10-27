@@ -20,17 +20,18 @@ In this chapter we are developing a mobile application to add and list my skills
 ```bash
 # Clone this repository and execute
 
+# Install dependencies
 $ yarn install 
 # or
 $ npm install
 
 # To run this project you'll need Android or iOS emulator, if you already have them, you can simply run the following commands
 
-# Yarn
+# Yarn run
 $ yarn android
 $ yarn ios
 
-# Npm
+# Npm run
 $ npm android
 $ npm ios
 ```
